@@ -1,6 +1,6 @@
 ---
 # doc as a code
- [para ler em português clique aqui](meleia.md)
+ [para ler em português clique aqui](MELEIA.md)
 Welcome to the documentation! This set will provide you with a detailed overview of how to use and understand each part of the CLI for structuring frontend projects. Here's an overview of what the documentations for each file will look like:
 ##
 
