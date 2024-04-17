@@ -69,6 +69,10 @@ Publication: I plan to publish this project to package managers in the JavaScrip
 Live-Preview: I’m considering adding a live-preview feature - a compact server that is generated for development and provides automatic page reloading. This would eliminate the need for a third-party/external extension and enhance the development experience.
 Bundler: Ultimately, I want to transform Create-Web-CLI into a full-fledged bundler. This would provide a comprehensive solution for setting up and managing web projects.
 
+
+# Documentation
+acess the documentation [[here](documentation\)]
+
 ## License
 
 This project is licensed under the MIT license - see the LICENSE.md file for more details.
