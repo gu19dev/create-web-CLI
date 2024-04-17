@@ -44,18 +44,6 @@ To use this project, follow these steps:
 - Creates a basic frontend structure: HTML, CSS, and JS.
 - Creates a React project structure.
 
-### Dependencies
-
-This project uses the following dependencies:
-
-- ![bluebird](https://img.shields.io/badge/bluebird-3.4.7-brightgreen)
-- ![chalk](https://img.shields.io/badge/chalk-1.1.3-brightgreen)
-- ![co](https://img.shields.io/badge/co-4.6.0-brightgreen)
-- ![commander](https://img.shields.io/badge/commander-2.9.0-brightgreen)
-- ![figlet](https://img.shields.io/badge/figlet-1.7.0-brightgreen)
-- ![inquirer](https://img.shields.io/badge/inquirer-9.2.16-brightgreen)
-- ![io-spin](https://img.shields.io/badge/io--spin-0.4.1-brightgreen)
-
 
 ## Contributing
 
