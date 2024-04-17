@@ -30,7 +30,7 @@ Para usar este projeto, siga estas etapas:
 Contribuições são bem-vindas! Por favor, leia [[aqui](contributing\)]  para detalhes sobre como contribuir para o projeto.
 
 # Documentação
-para ter acesso a documentação acesse aqui: [[aqui](documentation\MELEIA.md)]
+para ter acesso a documentação acesse aqui: [[aqui]([documentation\MELEIA.md](https://github.com/gu19dev/create-web-CLI/blob/main/documentation/MELEIA.md))]
 
 # Licença
 
