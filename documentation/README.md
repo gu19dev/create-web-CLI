@@ -1,17 +1,35 @@
 ---
 # doc as a code
- [para ler em português clique aqui](MELEIA.md)
+ [para ler em português clique aqui](MELEIA.md) <br>
+
 Welcome to the documentation! This set will provide you with a detailed overview of how to use and understand each part of the CLI for structuring frontend projects. Here's an overview of what the documentations for each file will look like:
 ##
 
-1. bin.mjs
+### Dependencies
+
+This project uses the following dependencies:
+
+- ![chalk](https://img.shields.io/badge/chalk-1.1.3-brightgreen)  ![bluebird](https://img.shields.io/badge/bluebird-3.4.7-brightgreen)   ![co](https://img.shields.io/badge/co-4.6.0-brightgreen)  ![commander](https://img.shields.io/badge/commander-2.9.0-brightgreen)  ![figlet](https://img.shields.io/badge/figlet-1.7.0-brightgreen)  ![inquirer](https://img.shields.io/badge/inquirer-9.2.16-brightgreen)  ![io-spin](https://img.shields.io/badge/io--spin-0.4.1-brightgreen)
+
+
+
+1. bin.mjs:
+
 This file is responsible for controlling the command-line interface (CLI) of the project. Here, users interact with the CLI to create new projects.
 
-2. index.js
+##
+
+2. index.js:
+
 The index.js is the main file of the project. It contains the core logic for creating a new project based on the options provided by the user.
 
-3. animation.mjs
+##
+
+3. animation.mjs:
+
 The animation.mjs is responsible for displaying an attractive animation when the CLI is started. It adds a stylish touch to the user experience.
+
+##
 
 ## How to Use This Documentation
 Each document will be divided into sections that explain the file's function, its internal logic, and how it fits into the overall context of the project. Additionally, we'll provide examples and clear explanations to ensure you fully understand each part of our CLI.
