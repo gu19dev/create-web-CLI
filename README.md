@@ -71,7 +71,7 @@ Bundler: Ultimately, I want to transform Create-Web-CLI into a full-fledged bund
 
 
 # Documentation
-acess the documentation [[here](documentation\)]
+acess the documentation [[here](documentation)]
 
 ## License
 
