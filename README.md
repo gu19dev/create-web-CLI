@@ -13,7 +13,7 @@
 
 </div>
 
-para ler em português [clique aqui](MELEIA.md)
+para ler em português [clique aqui](meleia.md)
 ##### A simple CLI for generating webapp projects
 
 
