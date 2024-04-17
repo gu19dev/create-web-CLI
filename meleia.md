@@ -27,7 +27,7 @@ Para usar este projeto, siga estas etapas:
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Por favor, leia [[aqui](contributing)]  para detalhes sobre como contribuir para o projeto.
+Contribuições são bem-vindas! Por favor, leia [[aqui](https://github.com/gu19dev/create-web-CLI/blob/main/contributing/meleia.md)]  para detalhes sobre como contribuir para o projeto.
 
 # Documentação
 para ter acesso a documentação acesse aqui: [[aqui](https://github.com/gu19dev/create-web-CLI/blob/main/documentation/MELEIA.md)]
