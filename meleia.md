@@ -27,7 +27,7 @@ Para usar este projeto, siga estas etapas:
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Por favor, leia [[aqui](contributing\doc-code.md)]  para detalhes sobre como contribuir para o projeto.
+Contribuições são bem-vindas! Por favor, leia [[aqui](contributing\)]  para detalhes sobre como contribuir para o projeto.
 
 # Documentação
 para ter acesso a documentação acesse aqui: [[aqui](documentation\MELEIA.md)]
