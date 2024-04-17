@@ -59,7 +59,7 @@ This project uses the following dependencies:
 
 ## Contributing
 
-Contributions are welcome! Please read [[click here](contributing\)] for details on how to contribute to the project.
+Contributions are welcome! Please read [[click here](contributing)] for details on how to contribute to the project.
 
 ## next steps
 
