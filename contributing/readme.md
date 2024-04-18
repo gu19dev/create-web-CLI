@@ -1,6 +1,6 @@
 ---
 Thank you for considering contributing! Your help is very much welcomed and appreciated.
- [para ler em português clique aqui](MELEIA.md)
+ [para ler em português clique aqui](meleia.md)
 ## How to Contribute
 
 1. **Find an Issue:** Take a look at our list of open issues and choose one that matches your interests or skills. If you don't find a suitable issue, feel free to propose a new one.
