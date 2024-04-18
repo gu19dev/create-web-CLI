@@ -13,7 +13,7 @@ O index.js é o arquivo principal do projeto. Ele contém a lógica principal pa
 O animation.mjs é responsável por exibir uma animação atraente quando o CLI é iniciado. Ele adiciona um toque de estilo à experiência do usuário.
 
 
- [english version](readme.md)
+ [english version](README.md)
 ##
 
 ### Como Usar Esta Documentação
