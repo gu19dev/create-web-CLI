@@ -1,0 +1,35 @@
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+.centered h2 {
+	margin: 0;
+	font-size: 3em;
+}
+
+@media screen and (max-width: 1200px) {
+	.centered h2 {
+		 font-size: 2.5em;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.centered h2 {
+		 font-size: 2em;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.centered h2 {
+		 font-size: 1.5em;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.centered h2 {
+		 font-size: 1.2em;
+	}
+}

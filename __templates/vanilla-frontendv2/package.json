@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress",
+    "build": "NODE_ENV=production webpack"
+  },
+  "babel": {
+    "presets": [
+      "webdev-201x/react"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "webdev-201x/react"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-webdev-201x": "^1.2.0",
+    "css-loader": "^0.26.1",
+    "eslint": "^3.14.0",
+    "eslint-config-webdev-201x": "^1.2.0",
+    "extract-text-webpack-plugin": "^2.0.0-beta.5",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.26.0",
+    "less": "^2.7.2",
+    "less-loader": "^2.2.3",
+    "node-sass": "^4.3.0",
+    "postcss-loader": "^1.2.2",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "vue-loader": "^10.0.2",
+    "vue-template-compiler": "^2.1.10",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0",
+    "webpack-merge": "^2.4.0"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "vue": "^2.1.10"
+  }
+}
