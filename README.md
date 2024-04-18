@@ -49,6 +49,14 @@ To use this project, follow these steps:
 
 Contributions are welcome! Please read [[click here](contributing)] for details on how to contribute to the project.
 
+
+### Featured Contributors
+
+#### A big thank you to everyone who has contributed to this project!
+
+- [[Yagasaki](https://github.com/Yagasaki7K)] Thank you for your valuable contributions and for helping to improve this project.
+
+
 ## next steps
 
 Currently, this project operates only locally as a “script”. However, I have ambitious plans for the future of Create-Web-CLI:
@@ -67,3 +75,5 @@ This project is licensed under the MIT license - see the LICENSE.md file for mor
 
 #### Why I Created This Project
 I was already familiar with several open-source initiatives that automated the generation of bundlers/projects. However, none of them offered what I was seeking: a simple setup with just HTML, CSS, and JS. So, I used this as a pretext to delve deeper into the Node runtime environment and gain a better understanding of executing Javascript. This project serves not only as a tool to assist others in setting up their web projects but also as a learning journey for me. Through the process of building Create-Web-CLI, I’ve gained a more profound understanding of Javascript and the Node environment. I hope this tool can simplify your project setup process and inspire you to learn more and create your own tools. Happy coding!
+
+
