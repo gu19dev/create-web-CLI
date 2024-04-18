@@ -19,7 +19,7 @@ para ler em português [clique aqui](meleia.md)
 
 
 
-![license](https://img.shields.io/badge/license-MIT-green) <a href="https://github.com/gu19dev"><img src="https://img.shields.io/badge/contribuidores-1-orange"></a>
+![license](https://img.shields.io/badge/license-MIT-green) <a href="https://github.com/gu19dev"><img src="https://img.shields.io/badge/contribuidores-2-orange"></a>
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D%2012.0.0-brightgreen)
 
