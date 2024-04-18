@@ -2,7 +2,7 @@ import figlet from 'figlet';
 import chalk from 'chalk';
 import readline from 'readline';
 const startAnimation = () => {
-    const fonts = '';
+    const fonts = ['Ogre', 'standard', 'slant'];
     const colors = [chalk.red, chalk.yellow, chalk.green, chalk.blue, chalk.magenta, chalk.cyan];
     let currentIndex = 0;
     let animationRunning = true;
